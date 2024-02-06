@@ -1,0 +1,25 @@
+# vsim -do ../DO/sum_of_min.do -c sum_of_minterms 
+# //  ModelSim SE-64 6.6g May 23 2012 Linux 3.10.0-1160.59.1.el7.x86_64
+# //
+# //  Copyright 1991-2012 Mentor Graphics Corporation
+# //              All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND 
+# //  PROPRIETARY INFORMATION WHICH IS THE PROPERTY
+# //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
+# //  AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading work.sum_of_minterms(example)#1
+# do ../DO/sum_of_min.do 
+# 0 0 0 0
+# 0 0 1 1
+# 0 1 0 0
+# 0 1 1 1
+# 1 0 0 0
+# 1 0 1 0
+# 1 1 0 0
+# 1 1 1 1
+# 
+#  

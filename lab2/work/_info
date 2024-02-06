@@ -1,0 +1,161 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/a/ar_gauta/coen313/lab2
+T_opt
+VQ:16bHB];k>nPRdB_VJ7h2
+04 15 7 work sum_of_minterms example 1
+=1-1860249b6b1c-6213ef33-ed928-13a4
+Z1 o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z2 OL;O;6.6g;45
+Z3 d/home/a/ar_gauta/coen313/lab2
+T_opt1
+VO<1z?X9dZ]dInd11m:YO:1
+04 10 7 work d1_circuit d1_arch 1
+=1-c8d9d233caa8-6214249d-1b0f6-1ef4
+R1
+n@_opt1
+R2
+R3
+Ed1_and
+Z4 w1645487242
+Z5 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+R3
+Z6 8d1_and.vhd
+Z7 Fd1_and.vhd
+l0
+L4
+V3kMO5Ydz=NM2O^_A2i_KQ0
+Z8 OL;C;6.6g;45
+32
+Z9 tExplicit 1
+!s100 1HRY2FV:Y7m[6e^4hmMV73
+Ad1_arch
+R5
+Z10 DEx4 work 6 d1_and 0 22 3kMO5Ydz=NM2O^_A2i_KQ0
+l10
+L9
+Vcgz:7H^ZRM5e9mM]gQF5z2
+R8
+32
+Z11 Mx1 4 ieee 14 std_logic_1164
+R9
+!s100 CSU`L1X?lP6zC2MV;96P21
+Aa1_arch
+R5
+R10
+l10
+L9
+VQC;W?QcFPF?CE`e5Q9dMC3
+R8
+32
+R11
+R9
+w1645486639
+Z12 Fand.vhd
+Z13 8and.vhd
+!s100 iREAHgb0TV6699IhEU;_22
+Aarch
+R5
+R10
+l10
+L9
+VL[8m[ChL[;Egd8g8ZZV>F3
+R8
+32
+R11
+R9
+w1645485230
+R12
+R13
+!s100 [<5@?G6><7GXo]:RbZYBE2
+Ed1_circuit
+Z14 w1645487160
+R5
+R3
+Z15 8circuit.vhd
+Z16 Fcircuit.vhd
+l0
+L4
+VW:[k2UJ[oQPN;OlGYW`a41
+R8
+32
+R9
+!s100 ;LYo86A3436VlEB1L6B^Q0
+Ad1_arch
+Z17 DEx4 work 5 d1_or 0 22 T8EW;[T6OXXI^RF8P9a191
+R10
+R5
+DEx4 work 10 d1_circuit 0 22 W:[k2UJ[oQPN;OlGYW`a41
+l27
+L9
+Vl^JdVkV2d?Ac9<`=U8E5M2
+!s100 GASQ8V0oK0S_;Q96nV9Jm2
+R8
+32
+R11
+R9
+Ed1_or
+Z18 w1645486842
+R5
+R3
+Z19 8d1_or.vhd
+Z20 Fd1_or.vhd
+l0
+L4
+VT8EW;[T6OXXI^RF8P9a191
+R8
+32
+R9
+!s100 1bMTo:7Wh75zFEf;Sck?>1
+Ad1_arch
+R5
+R17
+l10
+L9
+V]iEYzYN=dP8KDTVz[5oLF1
+R8
+32
+R11
+R9
+!s100 4YP`D2WFZ?KTn4iVBocV^2
+Aarch
+R5
+R17
+l10
+L9
+VoJm`nmo4V]fzR3_Z562bz3
+R8
+32
+R11
+R9
+w1645485260
+For.vhd
+8or.vhd
+!s100 U1nKlO]b6zmOZ[SJo^X003
+Esum_of_minterms
+Z21 w1645473362
+R5
+R3
+Z22 8sum_of_minterms.vhd
+Z23 Fsum_of_minterms.vhd
+l0
+L4
+V>]XZ[_a1]a=`GKIJVUEkW1
+!s100 ;Zh^gloF;9hl6[nlYRB__3
+R8
+32
+R9
+Aexample
+R5
+Z24 DEx4 work 15 sum_of_minterms 0 22 >]XZ[_a1]a=`GKIJVUEkW1
+l10
+L9
+Z25 V=Mh=:km;IB8Y[GSH<TAba3
+Z26 !s100 DWYa<0O=3iTXOMiJ9A?7J2
+R8
+32
+R11
+R9
