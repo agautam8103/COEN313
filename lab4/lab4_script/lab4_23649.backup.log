@@ -1,0 +1,74 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:02:38 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Wed Apr 13 15:01:06 2022
+# Process ID: 23649
+# Current directory: /nfs/home/a/ar_gauta/coen313/lab4/lab4_script
+# Command line: vivado -log lab4.log -mode batch -source lab4_script.tcl
+# Log file: /nfs/home/a/ar_gauta/coen313/lab4/lab4_script/lab4.log
+# Journal file: /nfs/home/a/ar_gauta/coen313/lab4/lab4_script/vivado.jou
+#-----------------------------------------------------------
+source lab4_script.tcl
+# read_vhdl  { ../lab4.vhd }
+# read_xdc lab4_script.xdc
+# synth_design -top registers_min_max -part xc7a100tcsg324-1
+Command: synth_design -top registers_min_max -part xc7a100tcsg324-1
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7a100t'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7a100t'
+INFO: Launching helper process for spawning children vivado processes
+INFO: Helper process launched with PID 23666 
+---------------------------------------------------------------------------------
+Starting RTL Elaboration : Time (s): cpu = 00:00:02 ; elapsed = 00:00:05 . Memory (MB): peak = 1467.590 ; gain = 86.727 ; free physical = 109357 ; free virtual = 155913
+---------------------------------------------------------------------------------
+INFO: [Synth 8-638] synthesizing module 'registers_min_max' [/nfs/home/a/ar_gauta/coen313/lab4/lab4.vhd:25]
+WARNING: [Synth 8-614] signal 'd_r0' is read in the process but is not in the sensitivity list [/nfs/home/a/ar_gauta/coen313/lab4/lab4.vhd:67]
+WARNING: [Synth 8-614] signal 'd_r1' is read in the process but is not in the sensitivity list [/nfs/home/a/ar_gauta/coen313/lab4/lab4.vhd:67]
+WARNING: [Synth 8-614] signal 'd_r2' is read in the process but is not in the sensitivity list [/nfs/home/a/ar_gauta/coen313/lab4/lab4.vhd:67]
+WARNING: [Synth 8-614] signal 'd_r3' is read in the process but is not in the sensitivity list [/nfs/home/a/ar_gauta/coen313/lab4/lab4.vhd:67]
+WARNING: [Synth 8-614] signal 'max_reg_in' is read in the process but is not in the sensitivity list [/nfs/home/a/ar_gauta/coen313/lab4/lab4.vhd:151]
+WARNING: [Synth 8-614] signal 'min_reg_in' is read in the process but is not in the sensitivity list [/nfs/home/a/ar_gauta/coen313/lab4/lab4.vhd:185]
+INFO: [Synth 8-256] done synthesizing module 'registers_min_max' (1#1) [/nfs/home/a/ar_gauta/coen313/lab4/lab4.vhd:25]
+---------------------------------------------------------------------------------
+Finished RTL Elaboration : Time (s): cpu = 00:00:03 ; elapsed = 00:00:07 . Memory (MB): peak = 1511.230 ; gain = 130.367 ; free physical = 109369 ; free virtual = 155926
+---------------------------------------------------------------------------------
+
+Report Check Netlist: 
++------+------------------+-------+---------+-------+------------------+
+|      |Item              |Errors |Warnings |Status |Description       |
++------+------------------+-------+---------+-------+------------------+
+|1     |multi_driven_nets |      0|        0|Passed |Multi driven nets |
++------+------------------+-------+---------+-------+------------------+
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:03 ; elapsed = 00:00:08 . Memory (MB): peak = 1511.230 ; gain = 130.367 ; free physical = 109368 ; free virtual = 155925
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 1 : Time (s): cpu = 00:00:03 ; elapsed = 00:00:08 . Memory (MB): peak = 1511.230 ; gain = 130.367 ; free physical = 109368 ; free virtual = 155925
+---------------------------------------------------------------------------------
+INFO: [Device 21-403] Loading part xc7a100tcsg324-1
+INFO: [Project 1-570] Preparing netlist for logic optimization
+
+Processing XDC Constraints
+Initializing timing engine
+Parsing XDC File [/nfs/home/a/ar_gauta/coen313/lab4/lab4_script/lab4_script.xdc]
+Finished Parsing XDC File [/nfs/home/a/ar_gauta/coen313/lab4/lab4_script/lab4_script.xdc]
+INFO: [Project 1-236] Implementation specific constraints were found while reading constraint file [/nfs/home/a/ar_gauta/coen313/lab4/lab4_script/lab4_script.xdc]. These constraints will be ignored for synthesis but will be used in implementation. Impacted constraints are listed in the file [.Xil/registers_min_max_propImpl.xdc].
+Resolution: To avoid this warning, move constraints listed in [.Xil/registers_min_max_propImpl.xdc] to another XDC file and exclude this new file from synthesis with the used_in_synthesis property (File Properties dialog in GUI) and re-run elaboration/synthesis.
+Completed Processing XDC Constraints
+
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+Constraint Validation Runtime : Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.01 . Memory (MB): peak = 1876.148 ; gain = 0.000 ; free physical = 109107 ; free virtual = 155664
+INFO: [Common 17-41] Interrupt caught. Command should exit soon.
+INFO: [Common 17-41] Interrupt caught. Command should exit soon.
+1
+INFO: [Common 17-83] Releasing license: Synthesis
+10 Infos, 6 Warnings, 0 Critical Warnings and 1 Errors encountered.
+synth_design failed
+INFO: [Common 17-344] 'source' was cancelled
+INFO: [Common 17-206] Exiting Vivado at Wed Apr 13 15:02:46 2022...

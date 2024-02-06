@@ -1,0 +1,77 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/a/ar_gauta/coen313/lab4
+T_opt
+Z1 VQ33`AVPe4FG6D5W<0^CQ_2
+Z2 04 17 8 work registers_min_max arc_lab4 1
+Z3 =1-c8d9d233caa8-62424c2e-d9d75-333a
+Z4 o-quiet -auto_acc_if_foreign -work work
+Z5 n@_opt
+Z6 OL;O;6.6g;45
+Z7 d/home/a/ar_gauta/coen313/lab4
+T_opt1
+VX6>Za1em:KWbf:m]dLUVZ3
+04 17 4 work registers_min_max arch 1
+Z8 =1-d0bf9cc126f8-62571164-45db-58df
+R4
+Z9 n@_opt1
+R6
+R7
+Thelp
+Z10 VoVAeADz3DJ_aO75[NYZ9O3
+R2
+Z11 o-nocovercells
+nhelp
+R6
+R7
+Z12 !s102 -nocovercells
+Eregisters_min_max
+Z13 w1649873100
+Z14 DPx4 ieee 15 std_logic_arith 0 22 GJbAT?7@hRQU9IQ702DT]2
+Z15 DPx4 ieee 18 std_logic_unsigned 0 22 hEMVMlaNCR^<OOoVNV;m90
+Z16 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+R7
+Z17 8lab4.vhd
+Z18 Flab4.vhd
+l0
+L7
+Z19 VJmEaHDeC:<d[<Ka97R:zh1
+Z20 OL;C;6.6g;45
+32
+Z21 tExplicit 1
+Z22 !s100 VcfF2cg3DN84MmVFo^l111
+Aarch
+R14
+R15
+R16
+Z23 DEx4 work 17 registers_min_max 0 22 JmEaHDeC:<d[<Ka97R:zh1
+l35
+L25
+Z24 VRB5PmHP;XmLbfZ036nWII1
+R20
+32
+Z25 Mx3 4 ieee 14 std_logic_1164
+Z26 Mx2 4 ieee 18 std_logic_unsigned
+Z27 Mx1 4 ieee 15 std_logic_arith
+R21
+Z28 !s100 l]6QRPgUgRR<aEEWnkWJ`2
+Aarc_lab4
+R14
+R15
+R16
+R23
+l19
+L16
+Z29 Vl5eHIgh25R81B0T=[M3To2
+R20
+32
+R25
+R26
+R27
+R21
+Z30 Fcircuit.vhd
+Z31 w1648512037
+Z32 8circuit.vhd
+Z33 !s100 eMVlMKCKn08Ai1YkdOHnW1
