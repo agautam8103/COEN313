@@ -1,0 +1,40 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/a/ar_gauta/coen313/project
+T_opt
+Z1 VRzfeA:621Z045HoEGeMcI2
+Z2 04 9 9 work comb_lock arch_comb 1
+Z3 =1-308d99620538-6255d3fd-2a218-1ca1
+Z4 o-quiet -auto_acc_if_foreign -work work
+Z5 n@_opt
+Z6 OL;O;6.6g;45
+Z7 d/home/a/ar_gauta/coen313/project
+Ecomb_lock
+Z8 w1649790489
+Z9 DPx17 __model_tech/ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z10 DPx17 __model_tech/ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+32
+R7
+Z11 8project.vhd
+Z12 Fproject.vhd
+l0
+L4
+Z13 V?OjkXWALQ[;PmWo2KG7:j3
+Z14 OL;C;6.6g;45
+Z15 tExplicit 1
+Z16 !s100 O3l@BiXBm9P[4C8@9UHzA1
+Aarch_comb
+R9
+R10
+DEx41 /nfs/home/a/ar_gauta/coen313/project/work 9 comb_lock 0 22 ?OjkXWALQ[;PmWo2KG7:j3
+32
+Mx2 17 __model_tech/ieee 14 std_logic_1164
+Mx1 17 __model_tech/ieee 11 numeric_std
+l21
+L16
+Z17 VAVOYR6YJBI4kZXzKJjl5b3
+R14
+R15
+Z18 !s100 LTDD9[Ei1jlTJO>`1P^6>0

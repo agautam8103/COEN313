@@ -1,0 +1,28 @@
+# vsim -c comb_lock 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# //  ModelSim SE-64 6.6g May 23 2012 Linux 3.10.0-1160.62.1.el7.x86_64
+# //
+# //  Copyright 1991-2012 Mentor Graphics Corporation
+# //              All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND 
+# //  PROPRIETARY INFORMATION WHICH IS THE PROPERTY
+# //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
+# //  AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.comb_lock(arch_comb)#1
+# 
+#  
+# invalid command name "rxamine"
+# 1 0 0 0111 0111 0000 0000 U U
+# 0 1 0 0101 0111 0101 0000 U U
+# 0 0 1 1001 0111 0101 1001 U U
+# 0 0 0 0111 0111 0101 1001 0 U 0 1
+# 0 0 0 0101 0111 0101 1001 0 U 1 1
+# 0 0 0 0101 0111 0101 1001 0 U 1 2
+# 0 0 0 1001 0111 0101 1001 0 U 2 2
+# 0 0 0 1001 0111 0101 1001 1 U 2 3
+# 0 0 0 1001 0111 0101 1001 0 1 0 0
