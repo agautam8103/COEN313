@@ -1,0 +1,37 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/a/ar_gauta/coen313/lab1
+T_opt
+VUQ<6HDH=Wg0^cZeo7FLCe2
+04 9 7 work and2_gate example 1
+=1-c8d9d233ca43-6201a7ae-c2b2d-14d8
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;6.6g;45
+Z1 d/home/a/ar_gauta/coen313/lab1
+Eand2_gate
+Z2 w1645423506
+Z3 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+R1
+Z4 8and2.vhd
+Z5 Fand2.vhd
+l0
+L4
+V[f7zng5`YA^CAj?F[nZiK0
+!s100 <Xj>b_P]gThCWdQ>mV7_g0
+Z6 OL;C;6.6g;45
+32
+Z7 tExplicit 1
+Aexample
+R3
+Z8 DEx4 work 9 and2_gate 0 22 [f7zng5`YA^CAj?F[nZiK0
+l10
+L9
+Z9 V0V`5`Yzij>Qn^[>WT_OMf2
+Z10 !s100 ]`=FGdmjK75jbN>3Q6I6W1
+R6
+32
+Z11 Mx1 4 ieee 14 std_logic_1164
+R7
