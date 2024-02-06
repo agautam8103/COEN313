@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/a/ar_gauta/coen313/lab3
+T_opt
+Z1 Vb3_MAgTk`^Hggbz;NYFS_0
+Z2 04 9 8 work converter arch_con 1
+Z3 =1-c8d9d233caa8-622fc6d5-b95d6-1c8d
+Z4 o-quiet -auto_acc_if_foreign -work work
+Z5 n@_opt
+Z6 OL;O;6.6g;45
+Z7 d/home/a/ar_gauta/coen313/lab3
+T_opt1
+Z8 V[_9M4W`:X3ecF:NFMc5NW2
+Z9 04 7 12 work method2 arch_method2 1
+Z10 =1-d0bf9cc126f8-6230ebb1-85f4a-5a30
+R4
+Z11 n@_opt1
+R6
+R7
+Econverter
+Z12 w1647298250
+Z13 DPx4 ieee 15 std_logic_arith 0 22 GJbAT?7@hRQU9IQ702DT]2
+Z14 DPx4 ieee 18 std_logic_unsigned 0 22 hEMVMlaNCR^<OOoVNV;m90
+Z15 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+R7
+Z16 8circuit.vhd
+Z17 Fcircuit.vhd
+l0
+L5
+Z18 VNK?RVH`0d[S^RSi4M0gM?1
+Z19 OL;C;6.6g;45
+32
+Z20 tExplicit 1
+Z21 !s100 FbEbhT?KaVUb^T9l]]KMh0
+Aarch_con
+R13
+R14
+R15
+Z22 DEx4 work 9 converter 0 22 NK?RVH`0d[S^RSi4M0gM?1
+l13
+L10
+Z23 V4[D;]jSfdCG?OVZ=m=D6o2
+R19
+32
+Z24 Mx3 4 ieee 14 std_logic_1164
+Z25 Mx2 4 ieee 18 std_logic_unsigned
+Z26 Mx1 4 ieee 15 std_logic_arith
+R20
+Z27 !s100 7^o[Iz;hi[Chk1d6K3B<l3
+Emethod2
+Z28 w1647373207
+Z29 DPx17 __model_tech/ieee 15 std_logic_arith 0 22 GJbAT?7@hRQU9IQ702DT]2
+Z30 DPx17 __model_tech/ieee 18 std_logic_unsigned 0 22 hEMVMlaNCR^<OOoVNV;m90
+Z31 DPx17 __model_tech/ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+32
+R7
+Z32 8method2.vhd
+Z33 Fmethod2.vhd
+l0
+L5
+Z34 V>4AJAa>d7>MNj55XCF7z`2
+R19
+R20
+Z35 !s100 fA@ZR@e@=8^T1agmHAEBG0
+Aarch_method2
+R29
+R30
+R31
+DEx38 /nfs/home/a/ar_gauta/coen313/lab3/work 7 method2 0 22 >4AJAa>d7>MNj55XCF7z`2
+32
+Mx3 17 __model_tech/ieee 14 std_logic_1164
+Mx2 17 __model_tech/ieee 18 std_logic_unsigned
+Mx1 17 __model_tech/ieee 15 std_logic_arith
+l11
+L10
+Z36 V2RL<K004]6PN3;0^A=km<2
+R19
+R20
+Z37 !s100 KWd6GIm2ccjT;`In<dW5N2

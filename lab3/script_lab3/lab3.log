@@ -1,0 +1,34 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:02:38 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Mon Mar 14 19:31:57 2022
+# Process ID: 19468
+# Current directory: /nfs/home/a/ar_gauta/coen313/lab3/script_lab3
+# Command line: vivado -log lab3.log -mode batch -source program_lab3.tcl
+# Log file: /nfs/home/a/ar_gauta/coen313/lab3/script_lab3/lab3.log
+# Journal file: /nfs/home/a/ar_gauta/coen313/lab3/script_lab3/vivado.jou
+#-----------------------------------------------------------
+source program_lab3.tcl
+# open_hw
+# connect_hw_server
+INFO: [Labtools 27-2285] Connecting to hw_server url TCP:localhost:3121
+INFO: [Labtools 27-2222] Launching hw_server...
+INFO: [Labtools 27-2221] Launch Output:
+
+****** Xilinx hw_server v2018.2
+  **** Build date : Jun 14 2018-20:18:37
+    ** Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+
+
+# open_hw_target
+INFO: [Labtoolstcl 44-466] Opening hw_target localhost:3121/xilinx_tcf/Digilent/210292ABF5D6A
+# current_hw_device [get_hw_devices xc7a100t_0]
+# refresh_hw_device -update_hw_probes false [lindex [get_hw_devices xc7a100t_0] 0]
+INFO: [Labtools 27-1435] Device xc7a100t (JTAG device index = 0) is not programmed (DONE status = 0).
+# set_property PROBES.FILE {} [get_hw_devices xc7a100t_0]
+# set_property FULL_PROBES.FILE {} [get_hw_devices xc7a100t_0]
+# set_property PROGRAM.FILE {converter.bit} [get_hw_devices xc7a100t_0]
+# program_hw_devices [get_hw_devices xc7a100t_0]
+INFO: [Labtools 27-3164] End of startup status: HIGH
+INFO: [Common 17-206] Exiting Vivado at Mon Mar 14 19:32:12 2022...

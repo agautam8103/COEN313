@@ -1,0 +1,36 @@
+# vsim -do ../DO/lab3.do -c method2 
+# //  ModelSim SE-64 6.6g May 23 2012 Linux 3.10.0-1160.59.1.el7.x86_64
+# //
+# //  Copyright 1991-2012 Mentor Graphics Corporation
+# //              All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND 
+# //  PROPRIETARY INFORMATION WHICH IS THE PROPERTY
+# //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
+# //  AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.method2(arch_method2)#1
+# do ../DO/lab3.do 
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /method2
+# 0000 0000
+# 0001 0001
+# 0010 0010
+# 0011 0011
+# 0100 0100
+# 0101 0101
+# 0111 0111
+# 1000 1000
+# 1001 1111
+# 1010 1110
+# 1011 1101
+# 1100 1100
+# 1101 1011
+# 1110 1010
+# 1111 1001
+# 
+#  

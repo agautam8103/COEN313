@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:02:38 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Mon Mar 14 19:15:58 2022
+# Process ID: 11691
+# Current directory: /nfs/home/a/ar_gauta/coen313/lab3/script_lab3
+# Command line: vivado -log lab3.log -mode batch -source lab3_script.tcl
+# Log file: /nfs/home/a/ar_gauta/coen313/lab3/script_lab3/lab3.log
+# Journal file: /nfs/home/a/ar_gauta/coen313/lab3/script_lab3/vivado.jou
+#-----------------------------------------------------------
+source lab3_script.tcl
